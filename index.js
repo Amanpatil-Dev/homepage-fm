@@ -27,7 +27,6 @@ function showSlides(n) {
 
 const Ham=document.querySelector('.responsive')
 const Cross=document.querySelector('.cross')
-console.log(Cross)
 
 Cross.addEventListener('click',(e)=>{
 
